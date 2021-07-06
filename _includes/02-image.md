@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![An image of a cat on bread](https://pbs.twimg.com/media/E5kPxFWUUAATUCV?format=jpg)
