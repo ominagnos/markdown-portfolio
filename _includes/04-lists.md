@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Favourite emojis
+1. 💞
+2. ✨
+3. 💗
+4. 🐁
